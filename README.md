@@ -38,39 +38,68 @@ This is a extremely robust Java console application that will calculate all of t
 
 ## 🖥️ Sample Output
 
---- Welcome to Ryley's Grade Statistics Calculator ---
+## --- Welcome to Ryley's Grade Statistics Calculator ---
 Please enter ten floating-point grades ranging from (0-100) for each student:
+
 Enter grade #1: 98.5
+
 Enter grade #2: abc
+
 ! This is an invalid input. Please enter a number ranging from 0 to 100.
+
 Enter grade #2: 105
+
 ! The grade is out of range. Please enter 0-100.
+
 Enter grade #2: 92
+
 Enter grade #3: 88.4
+
 Enter grade #4: 84
+
 Enter grade #5: 81.2
+
 Enter grade #6: 77
+
 Enter grade #7: 72.5
+
 Enter grade #8: 65
+
 Enter grade #9: 55
+
 Enter grade #10: 90
 
---- Individual Grade Report (Sorted) ---
+
+## --- Individual Grade Report (Sorted) ---
+
 98.50% [A]
+
 92.00% [A-]
+
 90.00% [A-]
+
 88.40% [B+]
+
 84.00% [B]
+
 81.20% [B-]
+
 77.00% [C+]
+
 72.50% [C]
+
 65.00% [D]
+
 55.00% [F]
 
---- Final Class Grade Statistics ---
+## --- Final Class Grade Statistics ---
+
 The Average grade for the class is: 80.36% (B-)
+
 The Maximum grade for the class is: 98.50% (A)
+
 The Minimum grade for the class is: 55.00% (F)
+
 The Standard deviation for the class is: 12.84
 
 --- Grade Distribution (Bar Chart) ---
@@ -86,4 +115,5 @@ F   [1]: *
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
 
