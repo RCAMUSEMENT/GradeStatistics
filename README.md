@@ -44,6 +44,7 @@ Please enter ten floating-point grades ranging from (0-100) for each student:
 Enter grade #1: 98.5
 
 Enter grade #2: abc
+
 ! This is an invalid input. Please enter a number ranging from 0 to 100.
 
 Enter grade #2: 105
@@ -126,6 +127,7 @@ F   [1]: *
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
 
 
 
