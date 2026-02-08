@@ -102,18 +102,28 @@ The Minimum grade for the class is: 55.00% (F)
 
 The Standard deviation for the class is: 12.84
 
---- Grade Distribution (Bar Chart) ---
+## --- Grade Distribution (Bar Chart) ---
+
 A   [1]: *
+
 A-  [2]: **
+
 B+  [1]: *
+
 B   [1]: *
+
 B-  [1]: *
+
 C+  [1]: *
+
 C   [1]: *
+
 D   [1]: *
+
 F   [1]: *
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
 
 
