@@ -70,7 +70,7 @@ public class GradeStatistics {
             distributionMap.put(letter, distributionMap.get(letter) + 1);
         }
 
-        // Final Statistics (Includeing Maximum and Minimum with their Letter Grades)
+        // Final Statistics (Including Maximum and Minimum with their Letter Grades)
         System.out.println("\n--- Final Class Grade Statistics ---");
         System.out.println("The Average grade for the class is: " + df.format(average) + "% (" + getLetterGrade(average) + ")");
         System.out.println("The Maximum grade for the class is: " + df.format(grades[0]) + "% (" + getLetterGrade(grades[0]) + ")");
@@ -107,3 +107,4 @@ public class GradeStatistics {
         }
     }
 }
+
