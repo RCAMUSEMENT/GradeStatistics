@@ -10,7 +10,7 @@ This is a extremely robust Java console application that will calculate all of t
 *   **Visual Distribution:** Generates a text-based histogram (bar chart) using asterisks.
 *   **Advanced Stats:** Calculates Average, Maximum, Minimum, and Population Standard Deviation.
 
-## 🛠️ How to Run
+## 🛠️ How to Run this Program
 1.  Please make sure you have **Java (JDK 8 or higher)** installed.
 2.  Save the code as `GradeStatistics.java`.
 3.  Open your terminal or command prompt and navigate to the file location.
@@ -127,6 +127,7 @@ F   [1]: *
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
 
 
 
