@@ -24,7 +24,7 @@ public class GradeStatistics {
         distributionMap.put("D", 0);
         distributionMap.put("F", 0);
 
-        System.out.println("--- Welcome to Ryleys Grade Statistics Calculator ---");
+        System.out.println("--- Welcome to Ryley's Grade Statistics Calculator ---");
         System.out.println("Please enter ten floating-point grades ranging from (0-100) for each student:");
 
         try (Scanner scanner = new Scanner(System.in)) {
@@ -107,6 +107,7 @@ public class GradeStatistics {
         }
     }
 }
+
 
 
 
