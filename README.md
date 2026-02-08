@@ -92,6 +92,7 @@ Enter grade #10: 90
 
 55.00% [F]
 
+
 ## --- Final Class Grade Statistics ---
 
 The Average grade for the class is: 80.36% (B-)
@@ -101,6 +102,7 @@ The Maximum grade for the class is: 98.50% (A)
 The Minimum grade for the class is: 55.00% (F)
 
 The Standard deviation for the class is: 12.84
+
 
 ## --- Grade Distribution (Bar Chart) ---
 
@@ -121,9 +123,11 @@ C   [1]: *
 D   [1]: *
 
 F   [1]: *
+
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
 
 
 
