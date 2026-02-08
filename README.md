@@ -1,5 +1,5 @@
 # 📊 Grade Statistics Calculator
-**Developed by Ryley**
+**Developed by Ryley Carlson**
 
 This is a extremely robust Java console application that will calculate all of the essential classroom statistics, maps numeric scores to specific letter grades, and generates a visual distribution bar chart.
 
@@ -86,3 +86,4 @@ F   [1]: *
 ----------------------------
 
 *Created as part of a Java Programming project for CSC320 Programming 1*
+
