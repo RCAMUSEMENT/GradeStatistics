@@ -1,3 +1,13 @@
+/**
+ * Student Name: Ryley Carlson
+ * CSC320 Module 4 Critical Thinking Assignment 3 - Option #2
+ * Program: GradeStatistic calculator
+ * Description: This program prompts the user to enter ten floating-point grades (0-100) for students
+ * calculates and displays various statistics such as average, maximum, minimum, and standard deviation.
+ *  It also generates a grade distribution report with a bar chart representation.
+ * The program includes input validation to ensure that only valid grades are accepted.
+ */
+
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.InputMismatchException;
